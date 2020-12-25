@@ -1,0 +1,2 @@
+Note:
+the static files for the base template is fead from baronsite app
